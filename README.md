@@ -82,7 +82,7 @@ echo boasVindas("Eric");
 ├── config.php
 └── index.php
 ```
----
+#
 
 
 ## 🎨 CSS
@@ -91,7 +91,7 @@ echo boasVindas("Eric");
 
 
 ```
----
+#
 
 
 ## 🌐 HTML
@@ -100,7 +100,7 @@ echo boasVindas("Eric");
 
 
 ```
----
+#
 
 
 ## 🛢️ MySQL (PHPMyAdmin)
@@ -109,7 +109,7 @@ echo boasVindas("Eric");
 
 
 ```
----
+#
 
 
 ## 💡 Arduino
@@ -118,6 +118,8 @@ echo boasVindas("Eric");
 
 
 ```
+#
+
 
 ## 🧠 Projetos – Scrum e Documentação
 
@@ -125,6 +127,8 @@ echo boasVindas("Eric");
 
 
 ```
+#
+
 
 ## 🧮 Lógica de Programação
 
@@ -132,3 +136,5 @@ echo boasVindas("Eric");
 
 
 ```
+#
+
