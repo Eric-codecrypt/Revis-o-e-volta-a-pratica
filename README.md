@@ -314,11 +314,15 @@ void loop() {
 
 // 7. Sem pinMode: os pinos não funcionam corretamente — LEDs não acendem.
 
+```
+#
+
+
 // Tinkercad
 ![Circuito do Semáforo no Tinkercad](sandbox:/mnt/data/428ceb47-4a3a-410e-8480-0f36c13c50da.png)
 
 
-```
+
 #
 
 
