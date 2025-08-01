@@ -320,10 +320,10 @@ void loop() {
 
 ## Tinkercad
 
-```tinkercad
+
 ![Circuito do Semáforo no Tinkercad](https://github.com/Eric-codecrypt/Revis-o-e-volta-a-pratica/blob/main/428ceb47-4a3a-410e-8480-0f36c13c50da.png)
 
-```
+
 
 
 #
