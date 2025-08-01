@@ -319,7 +319,8 @@ void loop() {
 
 
 // Tinkercad
-![Circuito do Semáforo no Tinkercad](sandbox:/mnt/data/428ceb47-4a3a-410e-8480-0f36c13c50da.png)
+![Circuito do Semáforo no Tinkercad](<img width="1508" height="709" alt="image" src="https://github.com/user-attachments/assets/b2504be1-5579-4356-b24e-5f2661f09160" />)
+
 
 
 
