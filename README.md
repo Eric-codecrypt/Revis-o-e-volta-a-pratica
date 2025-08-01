@@ -62,16 +62,73 @@ function boasVindas($nome) {
 }
 echo boasVindas("Eric");
 
-// 9. Mini MVC (estrutura de pastas)
+// 9. MVC (estrutura de pastas)
 /mvc
 ├── controller/
 │   └── AlunoController.php
 ├── model/
-│   └── Aluno.php
+│   └── AlunoModel.php
 ├── view/
 │   └── alunoView.php
+├── config.php
 └── index.php
+
+// 10. CRUD
+├── view/
+│   ├── registrar.php
+│   ├── alunoView.php
+│   ├── editar.php
+│   └── deletar.php
+├── config.php
+└── index.php
+```
+---
+
+
+## 🎨 CSS
 
 ```css
 
-## 🎨 CSS
+
+```
+---
+
+
+## 🌐 HTML
+
+```html
+
+
+```
+---
+
+
+## 🛢️ MySQL (PHPMyAdmin)
+
+```mysql
+
+
+```
+---
+
+
+## 💡 Arduino
+
+```arduino
+
+
+```
+
+## 🧠 Projetos – Scrum e Documentação
+
+```projetos
+
+
+```
+
+## 🧮 Lógica de Programação
+
+```logica
+
+
+```
